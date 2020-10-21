@@ -1,0 +1,13 @@
+D:\CExercise\Big_Domashka\bin\Debug\netcoreapp3.1\Big_Domashka.exe
+D:\CExercise\Big_Domashka\bin\Debug\netcoreapp3.1\Big_Domashka.deps.json
+D:\CExercise\Big_Domashka\bin\Debug\netcoreapp3.1\Big_Domashka.runtimeconfig.json
+D:\CExercise\Big_Domashka\bin\Debug\netcoreapp3.1\Big_Domashka.runtimeconfig.dev.json
+D:\CExercise\Big_Domashka\bin\Debug\netcoreapp3.1\Big_Domashka.dll
+D:\CExercise\Big_Domashka\bin\Debug\netcoreapp3.1\Big_Domashka.pdb
+D:\CExercise\Big_Domashka\obj\Debug\netcoreapp3.1\Big_Domashka.csprojAssemblyReference.cache
+D:\CExercise\Big_Domashka\obj\Debug\netcoreapp3.1\Big_Domashka.AssemblyInfoInputs.cache
+D:\CExercise\Big_Domashka\obj\Debug\netcoreapp3.1\Big_Domashka.AssemblyInfo.cs
+D:\CExercise\Big_Domashka\obj\Debug\netcoreapp3.1\Big_Domashka.csproj.CoreCompileInputs.cache
+D:\CExercise\Big_Domashka\obj\Debug\netcoreapp3.1\Big_Domashka.dll
+D:\CExercise\Big_Domashka\obj\Debug\netcoreapp3.1\Big_Domashka.pdb
+D:\CExercise\Big_Domashka\obj\Debug\netcoreapp3.1\Big_Domashka.genruntimeconfig.cache
